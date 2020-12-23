@@ -27,7 +27,7 @@ This is the frontend that talks to the `ping-app-backend` and it is written in V
 
 ## CI-CD
 
-Continous integration and delivery is done suing GitHub Actions and Amplify.
+Continous integration and delivery is done using GitHub Actions and Amplify.
 
 
 ##### To call any of the backend endpoints using postman for example exchange the id_token for an AWS SigV4 to call the API Gateway
