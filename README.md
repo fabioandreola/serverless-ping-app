@@ -23,7 +23,7 @@ This is the frontend that talks to the `ping-app-backend` and it is written in V
 
 ## App architecture diagram
 
-<img src="docs/images/ping.png" width="800">
+<img src="docs/images/ping_v2.png" width="800">
 
 ## CI-CD
 
